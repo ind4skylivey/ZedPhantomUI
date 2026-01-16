@@ -96,11 +96,11 @@
             "color": "#cc4080"
           },
           "comment": {
-            "color": "#8080c080",
+            "color": "#6a6aaa",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#4060a0"
+            "color": "#4169e1"
           },
           "constant": {
             "color": "#ff0080"
@@ -112,7 +112,7 @@
             "color": "#0080ff"
           },
           "function.builtin": {
-            "color": "#4080c0"
+            "color": "#1e90ff"
           },
           "function.method": {
             "color": "#2060a0"
@@ -144,13 +144,13 @@
             "color": "#008040"
           },
           "string.escape": {
-            "color": "#cc6000"
+            "color": "#d2691e"
           },
           "tag": {
             "color": "#ff0080"
           },
           "type": {
-            "color": "#cc8000",
+            "color": "#b8860b",
             "font_weight": "bold"
           },
           "variable": {
