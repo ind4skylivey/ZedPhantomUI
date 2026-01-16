@@ -4,26 +4,34 @@ Cyberpunk glassmorphism themes for Zed editor with blur effects.
 
 ![Preview](preview.png)
 
-## Themes
+## Theme
 
-- **Phantumbra Neon Cyberpunk [Dark]** - Main blur theme
-- **Phantumbra Cyber Light [Light]** - Light variant 
-- **Phantumbra Deep Blur [Dark]** - Maximum blur
+- **Phantumbra Neon Cyberpunk [Dark]** - Cyberpunk blur theme with glassmorphism effects
 
 ## Install
+
+Auto install (recommended):
 
 ```bash
 ./themes/install.sh
 ```
 
-Or manual:
+Manual install:
+
 ```bash
-cp themes/zed/*.json ~/.config/zed/themes/
+cp themes/zed/phantumbra-cyberpunk-blur.json ~/.config/zed/themes/
+```
+
+For additional variants:
+
+```bash
+cp themes/zed/phantumbra-cyberpunk-variants.json ~/.config/zed/themes/
 ```
 
 ## Usage
 
 Add to `~/.config/zed/settings.json`:
+
 ```json
 {
   "theme": "Phantumbra Neon Cyberpunk [Dark]"
@@ -33,7 +41,7 @@ Add to `~/.config/zed/settings.json`:
 ## Colors
 
 - **Primary**: `#00f5ff` (Cyan)
-- **Accent**: `#ff0080` (Pink) 
+- **Accent**: `#ff0080` (Pink)
 - **Background**: `#000817bb` (Dark blur)
 - **Syntax**: Neon cyberpunk palette
 
