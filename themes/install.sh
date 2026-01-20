@@ -26,9 +26,9 @@ install_themes() {
 
     log "Themes installed successfully"
     log "Available themes:"
-    log "  - Phantumbra Neon Cyberpunk [Dark] (blur effect)"
-    log "  - Phantumbra Cyber Light [Light] (minimal blur)"
-    log "  - Phantumbra Deep Blur [Dark] (maximum blur)"
+    log "  - Phantumbra Neon Cyberpunk [Dark] (pure cyberpunk neon)"
+    log "  - Phantumbra Cyber Light [Light] (violet pastel with enhanced UI)"
+    log "  - Phantumbra Deep Blur [Dark] (deep purple cyberpunk)"
 }
 
 update_zed_config() {
