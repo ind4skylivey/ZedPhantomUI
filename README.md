@@ -4,7 +4,7 @@
 
 Cyberpunk glassmorphism themes for Zed editor with blur effects.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Theme: Cyberpunk](https://img.shields.io/badge/Theme-Cyberpunk-blueviolet)](https://github.com)
 [![Editor: Zed](https://img.shields.io/badge/Editor-Zed-blue)](https://zed.dev)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com)
